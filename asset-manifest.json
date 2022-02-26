@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://tuanapp.github.io/csb-iyzemg/static/js/main.3af263b9.chunk.js",
+    "main.js.map": "https://tuanapp.github.io/csb-iyzemg/static/js/main.3af263b9.chunk.js.map",
+    "runtime~main.js": "https://tuanapp.github.io/csb-iyzemg/static/js/runtime~main.d50825cf.js",
+    "runtime~main.js.map": "https://tuanapp.github.io/csb-iyzemg/static/js/runtime~main.d50825cf.js.map",
+    "static/js/2.8e632369.chunk.js": "https://tuanapp.github.io/csb-iyzemg/static/js/2.8e632369.chunk.js",
+    "static/js/2.8e632369.chunk.js.map": "https://tuanapp.github.io/csb-iyzemg/static/js/2.8e632369.chunk.js.map",
+    "index.html": "https://tuanapp.github.io/csb-iyzemg/index.html",
+    "precache-manifest.9937cf99ba09349c55980be4c1b09444.js": "https://tuanapp.github.io/csb-iyzemg/precache-manifest.9937cf99ba09349c55980be4c1b09444.js",
+    "service-worker.js": "https://tuanapp.github.io/csb-iyzemg/service-worker.js"
+  }
+}
